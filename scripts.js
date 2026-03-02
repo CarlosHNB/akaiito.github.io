@@ -385,11 +385,23 @@ const messages=[
 
 "E aquela mais brilhante é Sirius.",
 
+"Mas, nem o brilho dela se compara ao seu",
+
 "Porque mesmo entre bilhões...",
 
 "você ainda é a que mais brilha.",
 
-"E desde o dia 22 de fevereiro de 2026..."
+"No meu céu estrelado, você sempre brilhará mais.",
+
+"Quiero pasar toda mi vida contigo.",
+
+"Sonreir y ser feliz a tu lado.",
+
+"Te amo con todo mi corazón.",
+
+"Y es tan bueno saber que...",
+
+"Desde o dia 22 de fevereiro de 2026..."
 
 ];
 
@@ -497,5 +509,6 @@ function startCounter(){
         textElement.style.opacity=1;
 
     },500);
+
 
 }
